@@ -9,7 +9,7 @@
 ![Alt text](IMG-SCREENSHOTS/Screenshot_20230214_231435.png)0
 
 
-#### created the folder ansible-config-artifact for the artifacts and set the permission 
+#### created the folder ansible-config-artifact for the artifacts and set the permission.
 ![Alt text](IMG-SCREENSHOTS/Screenshot_20230210_154905.png)
 
 ##### find copy artifacts under available plugins via plugin manager
